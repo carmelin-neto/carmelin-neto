@@ -17,6 +17,7 @@ differently in a production environment.
 - 🔒 [IT/OT Segmentation & Scanning Risk Writeup](https://github.com/carmelin-neto/ot-active-scanning-risk) — why OT environments
   require different security tooling and judgment than IT
 -  🔓 [ICS Modbus Attack Testing](https://github.com/carmelin-neto/ics-modbus-attack-testing) — hands-on testing of Modbus write-protection and ARP spoofing against a simulated PLC
+-  [OT Incident Response Scenario — Modbus Attack Detection & Response](https://github.com/carmelin-neto/ot-incident-response-scenario) -A complete incident response walkthrough — from detection through recovery — for the unauthorized Modbus write attack I tested in my ICS lab. Follows the SANS six-phase model, adapted for OT constraints where containment decisions have to weigh operational safety, not just security."
 
 ## Connect
 📄 [Resume](link) | 💼 [LinkedIn](link) | ✉️ linonetojr@gmail.com
