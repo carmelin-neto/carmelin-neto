@@ -20,8 +20,10 @@ differently in a production environment.
 -   [OT Incident Response Scenario — Modbus Attack Detection & Response](https://github.com/carmelin-neto/ot-incident-response-scenario) -A complete incident response walkthrough — from detection through recovery — for the unauthorized Modbus write attack I tested in my ICS lab. Follows the SANS six-phase model, adapted for OT constraints where containment decisions have to weigh operational safety, not just security."
 -   **[Vulnerability Assessment — Careful Scanning vs. Full Enumeration](https://github.com/carmelin-neto/ot-vulnerability-assessment)**
 Two-part vulnerability assessment of an OT/ICS lab and a hardened general-IT host — 5 CVE-verified findings, including two supply-chain backdoors.
+
 **[Risk Assessment — Asset to Network, IEC 62443](https://github.com/carmelin-neto/ot-risk-assessment)**
 IEC 62443 risk assessment scoring real threats from asset to network level, connecting findings to existing mitigations — including one deliberately unmitigated finding flagged honestly.
+
 **[Access Control Design — RBAC for a Segmented OT Network](https://github.com/carmelin-neto/ot-access-control-design)**
 Extends network segmentation with role-based access control across four realistic OT roles, showing how least-privilege design blocks the same attack tested in my Modbus project — independently of network controls.
 
