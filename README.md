@@ -4,7 +4,7 @@ Entry-level cybersecurity professional targeting internship / apprenticeship
 roles in **Oil & Gas (Critical Infrastructure/OT)**, Healthcare, and Tech.
 
 ISC2 Certified in Cybersecurity (CC) | Cisco Networking Academy — Foundational 
-Networking | Bringing 10+ years of analytical/anomaly-detection experience 
+Networking | Bringing 2+ years of analytical/anomaly-detection experience 
 into SOC-relevant work.
 
 ## What I'm building here
