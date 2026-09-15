@@ -1,11 +1,8 @@
 # Carmelino Neto | Cybersecurity — Network Security Track
 
-Entry-level cybersecurity professional targeting internship / apprenticeship 
-roles in **Oil & Gas (Critical Infrastructure/OT)**, Healthcare, and Tech.
+Entry-level cybersecurity professional with a hands-on, fully documented security portfolio — eight projects covering network segmentation, live attack testing, detection engineering, incident response, vulnerability assessment, risk assessment, access control design, and WAF deployment. Targeting SOC Analyst and Cybersecurity Analyst roles in Oil & Gas (Critical Infrastructure/OT), Healthcare, and Tech.
 
-ISC2 Certified in Cybersecurity (CC) | Cisco Networking Academy — Foundational 
-Networking | Bringing 2+ years of analytical/anomaly-detection experience 
-into SOC-relevant work.
+ISC2 Certified in Cybersecurity (CC) | Cisco Networking Academy — Foundational Networking | 2+ years of analytical/anomaly-detection experience applied to SOC-relevant work.
 
 ## What I'm building here
 Documented, hands-on labs — not tutorials followed silently. Each project 
