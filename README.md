@@ -27,5 +27,8 @@ IEC 62443 risk assessment scoring real threats from asset to network level, conn
      **[Access Control Design — RBAC for a Segmented OT Network](https://github.com/carmelin-neto/ot-access-control-design)**
 Extends network segmentation with role-based access control across four realistic OT roles, showing how least-privilege design blocks the same attack tested in my Modbus project — independently of network controls.
 
+**[WAF Deployment Lab — Detection, Enforcement, and a Real Cloud Constraint](https://github.com/carmelin-neto/waf-deployment-lab)**
+Self-hosted ModSecurity WAF tested through a full before/after SQLi attack chain — plus an honest look at what "free tier" cloud WAF actually requires, when a live Cloudflare deployment hit a real domain-ownership wall.
+
 ## Connect
 📄 [Resume](link) | 💼 [LinkedIn](link) | ✉️ linonetojr@gmail.com
