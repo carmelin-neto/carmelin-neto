@@ -1,4 +1,4 @@
-# Carmelino Neto | Cybersecurity — Network Security Track
+# Carmelino Neto | Cybersecurity Analyst — OT/ICS Security & SOC Operations
 
 Entry-level cybersecurity professional with a hands-on, fully documented security portfolio — eight projects covering network segmentation, live attack testing, detection engineering, incident response, vulnerability assessment, risk assessment, access control design, and WAF deployment. Targeting SOC Analyst and Cybersecurity Analyst roles in Oil & Gas (Critical Infrastructure/OT), Healthcare, and Tech.
 
